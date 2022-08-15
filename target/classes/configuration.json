@@ -1,0 +1,6 @@
+{
+  "httpPort": 9090,
+  "httpQueryInvoice": "/QueryInvoice",
+  "httpUploadInvoice": "/UploadInvoice",
+  "tcpPort": 7000
+}
